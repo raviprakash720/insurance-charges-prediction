@@ -33,7 +33,7 @@ This project predicts medical insurance charges based on patient data using a Li
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/your-username/insurance-charges-prediction.git
+git clone https://github.com/raviprakash720/insurance-charges-prediction.git
 cd insurance-charges-prediction
 jupyter notebook
 ```
